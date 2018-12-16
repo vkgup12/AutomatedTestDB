@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" verbose="1">
+	<test name="Test of DeutscheBank Public Site using Testng XML">
+		<classes>
+			<class name="myCompany.DeutscheBank.AppTest" />
+		</classes>
+	</test>
+</suite>
