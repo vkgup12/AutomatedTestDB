@@ -40,7 +40,7 @@ public class AppTest {
 
 	@AfterTest
 	public void closeBrowser() {
-		// driver.quit();
+		driver.quit();
 	}
 
 	@BeforeTest
